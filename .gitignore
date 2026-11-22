@@ -1,0 +1,12 @@
+.env
+.env.*
+.DS_Store
+node_modules/
+# raw footage and renders are too big for GitHub, keep them on the computer or in cloud storage
+videos/**/*.mp4
+videos/**/*.mov
+videos/**/*.MOV
+videos/**/*.m4a
+videos/**/*.wav
+videos/**/*.mp3
+videos/**/renders/
